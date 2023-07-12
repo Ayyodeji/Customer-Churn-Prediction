@@ -21,7 +21,7 @@ cd Customer-Churn-Prediction
 3. Open the Jupyter Notebook:
    jupyter notebook
 
-4. Open the provided Jupyter Notebook `Telecom_Customer_Churn_Prediction.ipynb`.
+4. Open the provided Jupyter Notebook `CustomerChurnPrediction.ipynb`.
 
 5. Follow the instructions in the notebook to explore the dataset, preprocess the data, build the ANN, CNN, and RNN models, and evaluate their performance.
 
@@ -38,7 +38,7 @@ cd Customer-Churn-Prediction
 
 ## Dataset
 
-The dataset used in this project contains information about telecommunication customers, including various features and the churn status. The dataset is provided within the repository in the `data` directory.
+The dataset used in this project contains information about telecommunication customers, including various features and the churn status. The dataset is provided within the repository: WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 ## Resources
 
